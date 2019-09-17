@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/gelvezz23/static/css/main.baa7786d.chunk.css",
-    "main.js": "/gelvezz23/static/js/main.89e3bac2.chunk.js",
-    "main.js.map": "/gelvezz23/static/js/main.89e3bac2.chunk.js.map",
+    "main.css": "/gelvezz23/static/css/main.213fd670.chunk.css",
+    "main.js": "/gelvezz23/static/js/main.652b6369.chunk.js",
+    "main.js.map": "/gelvezz23/static/js/main.652b6369.chunk.js.map",
     "runtime~main.js": "/gelvezz23/static/js/runtime~main.50edc293.js",
     "runtime~main.js.map": "/gelvezz23/static/js/runtime~main.50edc293.js.map",
     "static/js/2.8a7eaba8.chunk.js": "/gelvezz23/static/js/2.8a7eaba8.chunk.js",
     "static/js/2.8a7eaba8.chunk.js.map": "/gelvezz23/static/js/2.8a7eaba8.chunk.js.map",
     "index.html": "/gelvezz23/index.html",
-    "precache-manifest.9a0206936a69ac548f8edf08539dd254.js": "/gelvezz23/precache-manifest.9a0206936a69ac548f8edf08539dd254.js",
+    "precache-manifest.71c55f359577f557e4bf56981ca78002.js": "/gelvezz23/precache-manifest.71c55f359577f557e4bf56981ca78002.js",
     "service-worker.js": "/gelvezz23/service-worker.js",
-    "static/css/main.baa7786d.chunk.css.map": "/gelvezz23/static/css/main.baa7786d.chunk.css.map",
+    "static/css/main.213fd670.chunk.css.map": "/gelvezz23/static/css/main.213fd670.chunk.css.map",
     "static/media/LogoPersonal2.png": "/gelvezz23/static/media/LogoPersonal2.502e67ff.png",
     "static/media/profile.jpg": "/gelvezz23/static/media/profile.79849a07.jpg"
   }
