@@ -1,8 +1,9 @@
 {
-  "homepage": "https://github.com/gelvezz23/gelvezz23.git",
+
   "name": "hv-carlos",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://gelvezz23.github.io/gelvezz23/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.22",
     "@fortawesome/free-solid-svg-icons": "^5.10.2",
