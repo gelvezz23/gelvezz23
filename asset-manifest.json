@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/gelvezz23/gelvezz23.git/static/css/main.baa7786d.chunk.css",
-    "main.js": "/gelvezz23/gelvezz23.git/static/js/main.238e9f4a.chunk.js",
-    "main.js.map": "/gelvezz23/gelvezz23.git/static/js/main.238e9f4a.chunk.js.map",
-    "runtime~main.js": "/gelvezz23/gelvezz23.git/static/js/runtime~main.ef53dcbb.js",
-    "runtime~main.js.map": "/gelvezz23/gelvezz23.git/static/js/runtime~main.ef53dcbb.js.map",
-    "static/js/2.8a7eaba8.chunk.js": "/gelvezz23/gelvezz23.git/static/js/2.8a7eaba8.chunk.js",
-    "static/js/2.8a7eaba8.chunk.js.map": "/gelvezz23/gelvezz23.git/static/js/2.8a7eaba8.chunk.js.map",
-    "index.html": "/gelvezz23/gelvezz23.git/index.html",
-    "precache-manifest.d661a8935005ff41da441f0bff1290cb.js": "/gelvezz23/gelvezz23.git/precache-manifest.d661a8935005ff41da441f0bff1290cb.js",
-    "service-worker.js": "/gelvezz23/gelvezz23.git/service-worker.js",
-    "static/css/main.baa7786d.chunk.css.map": "/gelvezz23/gelvezz23.git/static/css/main.baa7786d.chunk.css.map",
-    "static/media/LogoPersonal2.png": "/gelvezz23/gelvezz23.git/static/media/LogoPersonal2.502e67ff.png",
-    "static/media/profile.jpg": "/gelvezz23/gelvezz23.git/static/media/profile.79849a07.jpg"
+    "main.css": "/gelvezz23/static/css/main.baa7786d.chunk.css",
+    "main.js": "/gelvezz23/static/js/main.b16f8faa.chunk.js",
+    "main.js.map": "/gelvezz23/static/js/main.b16f8faa.chunk.js.map",
+    "runtime~main.js": "/gelvezz23/static/js/runtime~main.50edc293.js",
+    "runtime~main.js.map": "/gelvezz23/static/js/runtime~main.50edc293.js.map",
+    "static/js/2.8a7eaba8.chunk.js": "/gelvezz23/static/js/2.8a7eaba8.chunk.js",
+    "static/js/2.8a7eaba8.chunk.js.map": "/gelvezz23/static/js/2.8a7eaba8.chunk.js.map",
+    "index.html": "/gelvezz23/index.html",
+    "precache-manifest.9d6176e49df643090e6e687d2d4c93ce.js": "/gelvezz23/precache-manifest.9d6176e49df643090e6e687d2d4c93ce.js",
+    "service-worker.js": "/gelvezz23/service-worker.js",
+    "static/css/main.baa7786d.chunk.css.map": "/gelvezz23/static/css/main.baa7786d.chunk.css.map",
+    "static/media/LogoPersonal2.png": "/gelvezz23/static/media/LogoPersonal2.502e67ff.png",
+    "static/media/profile.jpg": "/gelvezz23/static/media/profile.79849a07.jpg"
   }
 }
