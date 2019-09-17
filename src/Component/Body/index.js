@@ -6,72 +6,57 @@ class Body extends Component {
 
     render() {
         return (
+            <div className="col s12">
+                <div className="col s12 center algo section">
+                    <h3 className="animated fadeIn delay-1s">Bienvenidos a mi mundo.</h3>
+                    <div className="divider"></div>
 
-            <div className="col s12 center">
-                <h3 className="animated fadeIn delay-1s">Bienvenidos a mi mundo.</h3>
-                <div className="divider"></div>
-                <div className="container center">
-                    <div className="col s12"><br/><br/></div>
+                    <div className="container center col s12">
+                        <div className="col s12"><br/><br/></div>
 
-                    <div className="row valign-wrapper">
-                        <div className="col s2 animated bounceIn delay-2s ">
-                            <a href="https://www.facebook.com/carlosmario.gomezgelvez">
-                                <img className="icon-social " src="https://cdn.svgporn.com/logos/facebook.svg"/>
-                            </a>
-                        </div>
-                        <div className="col s2 animated bounceIn delay-2s">
-                            <a href="https://www.instagram.com/carlosmariogomezgelvez/">
-                                <img className="icon-social " src="https://cdn.svgporn.com/logos/instagram-icon.svg"/>
-                            </a>
-                        </div>
-                        <div className="col s2 animated bounceIn delay-2s">
-                            <a href="https://www.youtube.com/user/gelvez21">
-                                <img className="icon-social" src="https://cdn.svgporn.com/logos/youtube.svg"/>
-                            </a>
-                        </div>
-                        <div className="col s2 animated bounceIn delay-2s">
-                            <a href="https://twitter.com/23_mao">
-                                <img className="icon-social" src="https://cdn.svgporn.com/logos/twitter.svg"/>
-                            </a>
-                        </div>
-                        <div className="col s2 animated bounceIn delay-2s">
-                            <a href="https://github.com/gelvezz23">
-                                <img className="icon-social" src="https://cdn.svgporn.com/logos/github-icon.svg"/>
-                            </a>
-                        </div>
-                        <div className="col s2 animated bounceIn delay-2s">
-                            <a href="https://www.linkedin.com/in/carlos-mario-gomez-gelvez-07888a116/">
-                                <img className="icon-social" src="https://cdn.svgporn.com/logos/linkedin.svg"/>
-                            </a>
-                        </div>
+                        <div className="row">
 
+                            <div className="col s12 m10 l2 animated bounceIn delay-2s">
+                                <a href="https://www.facebook.com/carlosmario.gomezgelvez">
+                                    <img className="icon-social " src="https://cdn.svgporn.com/logos/facebook.svg"/>
+                                </a>
+                                <h5>Facebook</h5>
+                            </div>
+                            <div className="col s12 m10 l2 animated bounceIn delay-2s">
+                                <a href="https://www.instagram.com/carlosmariogomezgelvez/">
+                                    <img className="icon-social" src="https://cdn.svgporn.com/logos/instagram-icon.svg"/>
+                                </a>
+                                <h5>Instagram</h5>
+                            </div>
+                            <div className="col s12 m10 l2 animated bounceIn delay-2s">
+                                <a href="https://www.youtube.com/user/gelvez21">
+                                    <img className="icon-social" src="https://cdn.svgporn.com/logos/youtube.svg"/>
+                                </a>
+                                <h5>Youtube</h5>
+                            </div>
+                            <div className="col s12 m10 l2 animated bounceIn delay-2s">
+                                <a href="https://twitter.com/23_mao">
+                                    <img className="icon-social" src="https://cdn.svgporn.com/logos/twitter.svg"/>
+                                </a>
+                                <h5>Twitter</h5>
+                            </div>
+                            <div className="col s12 m10 l2 animated bounceIn delay-2s">
+                                <a href="https://github.com/gelvezz23">
+                                    <img className="icon-social" src="https://cdn.svgporn.com/logos/github-icon.svg"/>
+                                </a>
+                                <h5>Github</h5>
+                            </div>
+                            <div className="col s12 m10 l2 animated bounceIn delay-2s ">
+                                <a href="https://www.linkedin.com/in/carlos-mario-gomez-gelvez-07888a116/" >
+                                    <img className="icon-social" src="https://cdn.svgporn.com/logos/linkedin.svg"/>
+                                </a>
+                                <h5>Linkedin</h5>
+                            </div>
+                        </div>
                     </div>
-
-                    <div className="row">
-                        <div className="col s2 animated bounceIn delay-3s">
-                            <h5>Facebook</h5>
-                        </div>
-                        <div className="col s2 s2 animated bounceIn delay-3s">
-                            <h5>Instagram</h5>
-                        </div>
-                        <div className="col s2 s2 animated bounceIn delay-3s">
-                            <h5>Youtube</h5>
-                        </div>
-                        <div className="col s2 s2 animated bounceIn delay-3s">
-                            <h5>Twitter</h5>
-                        </div>
-                        <div className="col s2 s2 animated bounceIn delay-3s">
-                            <h5>Github</h5>
-                        </div>
-                        <div className="col s2 s2 animated bounceIn delay-3s">
-                            <h5>Linkedin</h5>
-                        </div>
-
-                    </div>
-
                 </div>
 
-                <footer className="page-footer grey darken-4">
+                <footer className="page-footer grey darken-4 section">
                     <div className="container">
                         <div className="row">
                             <div className="col l6 s12">

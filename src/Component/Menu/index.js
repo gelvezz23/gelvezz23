@@ -20,7 +20,7 @@ class Menu extends Component {
                             <div className="nav-wrapper navbg-color z-depth-3">
                                 <Link to="/home" className="brand-logo"><img className="logo" src={logo}/></Link>
                                 <a href="#" data-target="mobile-demo"
-                                   className="sidenav-trigger waves-effect waves-purple">
+                                   className="sidenav-trigger ">
                                     <i className="large material-icons">menu</i></a>
 
                                 <ul className="right hide-on-med-and-down">
@@ -42,20 +42,18 @@ class Menu extends Component {
                                     </li>
 
                                 </ul>
-                                <ul className="sidenav" id="mobile-demo">
-                                    <li><Link to="/home"> Inicio </Link></li>
-                                    <li><Link to="/quiensoy"> Quien soy </Link></li>
-                                    <li><Link to="/sobremi"> Sobre mi </Link></li>
-                                    <li><Link to="/anexos"> Anexos </Link></li>
 
-                                </ul>
                             </div>
 
                         </nav>
-
-
-
                     </div>
+                    <ul className="sidenav" id="mobile-demo">
+                        <li><Link to="/home"> Inicio </Link></li>
+                        <li><Link to="/quiensoy"> Quien soy </Link></li>
+                        <li><Link to="/sobremi"> Sobre mi </Link></li>
+                        <li><Link to="/anexos"> Anexos </Link></li>
+                    </ul>
+
                     <Route exact path="/gelvezz23" component={Home}/>
                     <Route exact path="/home" component={Home}/>
                     <Route exact path="/quiensoy" component={Quiensoy}/>
