@@ -25,7 +25,7 @@ class Menu extends Component {
 
                                 <ul className="right hide-on-med-and-down">
                                     <li className="waves-effect waves-orange">
-                                        <Link className="font-style" to="/home">
+                                        <Link className="font-style" to="/gelvezz23">
                                             <i className="material-icons right medium">home</i>Inicio</Link>
                                     </li>
 
@@ -46,7 +46,7 @@ class Menu extends Component {
                         </nav>
 
                         <ul className="sidenav" id="mobile-demo">
-                            <li><Link to="/home"> Inicio </Link></li>
+                            <li><Link to="/gelvezz23"> Inicio </Link></li>
                             <li><Link to="/quiensoy"> Quien soy </Link></li>
                             <li><Link to="/sobremi"> Sobre mi </Link></li>
                             <li><Link to="/anexos"> Anexos </Link></li>
@@ -54,7 +54,7 @@ class Menu extends Component {
                         </ul>
                     </div>
                     <Route exact path="/" component={Home}/>
-                    <Route exact path="/home" component={Home}/>
+                    <Route exact path="/gelvezz23" component={Home}/>
                     <Route exact path="/quiensoy" component={Quiensoy}/>
                     <Route exact path="/sobremi" component={Sobremi}/>
                     <Route exact path="/anexos" component={Anexos}/>
