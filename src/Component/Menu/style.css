@@ -1,0 +1,35 @@
+* {
+    font-family: 'Cabin', sans-serif;
+}
+
+.font-style {
+    font-size: 20px;
+    font-weight: 500;
+
+}
+
+.logo {
+    width: 200px;
+    height: auto;
+    top: -10px;
+    margin-left: 20%;
+
+}
+.icon-social{
+    width: 80px;
+    height: auto;
+
+}
+.navbg-color {
+
+    background: rgba(190, 39, 236, 1);
+    background: -moz-linear-gradient(left, rgba(190, 39, 236, 1) 0%, rgba(213, 38, 7, 1) 0%, rgba(213, 38, 7, 1) 0%, rgba(158, 13, 206, 1) 60%, rgba(96, 17, 128, 1) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(190, 39, 236, 1)), color-stop(0%, rgba(213, 38, 7, 1)), color-stop(0%, rgba(213, 38, 7, 1)), color-stop(60%, rgba(158, 13, 206, 1)), color-stop(100%, rgba(96, 17, 128, 1)));
+    background: -webkit-linear-gradient(left, rgba(190, 39, 236, 1) 0%, rgba(213, 38, 7, 1) 0%, rgba(213, 38, 7, 1) 0%, rgba(158, 13, 206, 1) 60%, rgba(96, 17, 128, 1) 100%);
+    background: -o-linear-gradient(left, rgba(190, 39, 236, 1) 0%, rgba(213, 38, 7, 1) 0%, rgba(213, 38, 7, 1) 0%, rgba(158, 13, 206, 1) 60%, rgba(96, 17, 128, 1) 100%);
+    background: -ms-linear-gradient(left, rgba(190, 39, 236, 1) 0%, rgba(213, 38, 7, 1) 0%, rgba(213, 38, 7, 1) 0%, rgba(158, 13, 206, 1) 60%, rgba(96, 17, 128, 1) 100%);
+    background: linear-gradient(to right, rgba(190, 39, 236, 1) 0%, rgba(213, 38, 7, 1) 0%, rgba(213, 38, 7, 1) 0%, rgba(158, 13, 206, 1) 60%, rgba(96, 17, 128, 1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#be27ec', endColorstr='#601180', GradientType=1);
+
+
+}
