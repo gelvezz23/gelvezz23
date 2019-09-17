@@ -42,16 +42,19 @@ class Menu extends Component {
                                     </li>
 
                                 </ul>
+                                <ul className="sidenav" id="mobile-demo">
+                                    <li><Link to="/home"> Inicio </Link></li>
+                                    <li><Link to="/quiensoy"> Quien soy </Link></li>
+                                    <li><Link to="/sobremi"> Sobre mi </Link></li>
+                                    <li><Link to="/anexos"> Anexos </Link></li>
+
+                                </ul>
                             </div>
+
                         </nav>
 
-                        <ul className="sidenav" id="mobile-demo">
-                            <li><Link to="/home"> Inicio </Link></li>
-                            <li><Link to="/quiensoy"> Quien soy </Link></li>
-                            <li><Link to="/sobremi"> Sobre mi </Link></li>
-                            <li><Link to="/anexos"> Anexos </Link></li>
 
-                        </ul>
+
                     </div>
                     <Route exact path="/gelvezz23" component={Home}/>
                     <Route exact path="/home" component={Home}/>
