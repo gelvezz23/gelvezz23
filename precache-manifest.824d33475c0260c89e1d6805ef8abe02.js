@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "86d09756c62464397cbf489c2c24ee97",
+    "revision": "7512c44765f557f24ca4674f56052183",
     "url": "/gelvezz23/index.html"
   },
   {
-    "revision": "a57b2a454816bfe7a0f9",
+    "revision": "977150cd02b107c7e51e",
     "url": "/gelvezz23/static/css/main.213fd670.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gelvezz23/static/js/2.8a7eaba8.chunk.js"
   },
   {
-    "revision": "a57b2a454816bfe7a0f9",
-    "url": "/gelvezz23/static/js/main.652b6369.chunk.js"
+    "revision": "977150cd02b107c7e51e",
+    "url": "/gelvezz23/static/js/main.91d10b37.chunk.js"
   },
   {
     "revision": "2f8a73dc802879ddf69c",
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gelvezz23/static/media/LogoPersonal2.502e67ff.png"
   },
   {
-    "revision": "79849a078a6ecb12b7344d48ad9c3abd",
-    "url": "/gelvezz23/static/media/profile.79849a07.jpg"
+    "revision": "74a976a85e2b844c5996c25114903550",
+    "url": "/gelvezz23/static/media/profile.74a976a8.jpg"
   }
 ]);

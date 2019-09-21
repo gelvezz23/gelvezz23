@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/gelvezz23/static/css/main.213fd670.chunk.css",
-    "main.js": "/gelvezz23/static/js/main.652b6369.chunk.js",
-    "main.js.map": "/gelvezz23/static/js/main.652b6369.chunk.js.map",
+    "main.js": "/gelvezz23/static/js/main.91d10b37.chunk.js",
+    "main.js.map": "/gelvezz23/static/js/main.91d10b37.chunk.js.map",
     "runtime~main.js": "/gelvezz23/static/js/runtime~main.50edc293.js",
     "runtime~main.js.map": "/gelvezz23/static/js/runtime~main.50edc293.js.map",
     "static/js/2.8a7eaba8.chunk.js": "/gelvezz23/static/js/2.8a7eaba8.chunk.js",
     "static/js/2.8a7eaba8.chunk.js.map": "/gelvezz23/static/js/2.8a7eaba8.chunk.js.map",
     "index.html": "/gelvezz23/index.html",
-    "precache-manifest.6bbbf52700b055e7e1c5be4bc3ba7f40.js": "/gelvezz23/precache-manifest.6bbbf52700b055e7e1c5be4bc3ba7f40.js",
+    "precache-manifest.824d33475c0260c89e1d6805ef8abe02.js": "/gelvezz23/precache-manifest.824d33475c0260c89e1d6805ef8abe02.js",
     "service-worker.js": "/gelvezz23/service-worker.js",
     "static/css/main.213fd670.chunk.css.map": "/gelvezz23/static/css/main.213fd670.chunk.css.map",
     "static/media/LogoPersonal2.png": "/gelvezz23/static/media/LogoPersonal2.502e67ff.png",
-    "static/media/profile.jpg": "/gelvezz23/static/media/profile.79849a07.jpg"
+    "static/media/profile.jpg": "/gelvezz23/static/media/profile.74a976a8.jpg"
   }
 }
