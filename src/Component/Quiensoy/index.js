@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import Profile from './../../assets/img/profile.jpg';
+import Profile from 'https://raw.githubusercontent.com/gelvezz23/gelvezz23/master/src/assets/img/profile.jpg';
 
 
 class Quiensoy extends Component {
