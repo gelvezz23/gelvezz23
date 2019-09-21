@@ -9,7 +9,10 @@ class Quiensoy extends Component {
         return (
             <div className="col s12">
                 <div className="row">
-                    <div className="siseñor col s12 m6 l6  grey darken-4">
+                    <div className="bg"></div>
+                    <div className="bg bg2"></div>
+                    <div className="bg bg3"></div>
+                    <div className="col s12 m6 l6  grey darken-4">
                         <div className="card grey darken-4 center">
                             <div className="waves-effect waves-block waves-light">
                                 <img src={Profile} alt="" className=" circle profile responsive-img"/>
@@ -19,8 +22,6 @@ class Quiensoy extends Component {
                                    <i className="material-icons right">menu</i>
 
                                 </span>
-
-
                             </div>
                             <div className="card-reveal">
                                 <span className="card-title grey-text text-darken-4"><i
@@ -35,8 +36,8 @@ class Quiensoy extends Component {
                         </div>
                     </div>
 
-                    <div className="col s12 m6 l6 amber">
-                        <h3 className="valign-wrapper animated fadeIn delay-1s">
+                    <div className="col s12 m6 l6">
+                        <h3 className="valign-wrapper font-vive animated fadeIn delay-1s">
                             <i className="fas fa-calendar-alt"></i>
                             22 de Febrero 1997
                         </h3>
@@ -56,81 +57,140 @@ class Quiensoy extends Component {
                             <i className="fas fa-at"></i>
                             Mao_23_@hotmail.com
                         </h3>
-
                         <h3 className="animated fadeIn delay-6s"><h5>Mas sobre mi</h5>
                             <i className="fas fa-arrow-down"></i>
                         </h3>
                     </div>
                 </div>
 
-
-                <div className="section container white col s12">
-                    <div className="row col s12">
-                        <blockquote>
-                            <h2 className="header col s12">Formacion</h2>
-                        </blockquote>
-
-
-                        <h4 className="header col s12 ">Ingenieria de sistemas</h4>
-                        <p className="grey-text text-darken-3 lighten-3 col s12">Universidad francisco de paula
-                            santander
-                            <br/>en proceso
-                            <br/>6to semestre</p>
+                <div className="section white">
+                    <div className="section container white col s12">
+                        <div className="row col s12">
+                            <blockquote>
+                                <h2 className="header col s12">Formacion</h2>
+                            </blockquote>
 
 
-                        <h4 className="header right-align col s12">Tecnico en programacion de software</h4>
-                        <p className="grey-text text-darken-3 lighten-3 right-align col s12">Servicio nacional de
-                            aprendizaje
-                            SENA
-                            <br/>2014</p>
+                            <h4 className="header col s12 ">Ingenieria de sistemas</h4>
+                            <p className="grey-text text-darken-3 lighten-3 col s12">Universidad francisco de paula
+                                santander
+                                <br/>en proceso
+                                <br/>6to semestre</p>
 
 
-                        <h4 className="header col s12">Marketing mix</h4>
-                        <p className="grey-text text-darken-3 lighten-3 col s12">Servicio nacional de aprendizaje SENA
-                            <br/>2014</p>
+                            <h4 className="header right-align col s12">Tecnico en programacion de software</h4>
+                            <p className="grey-text text-darken-3 lighten-3 right-align col s12">Servicio nacional
+                                de
+                                aprendizaje
+                                SENA
+                                <br/>2014</p>
 
-                        <h4 className="header right-align col s12">Bachiller tecnico en gestion de redes y sistemas</h4>
-                        <p className="grey-text text-darken-3 lighten-3 right-align col s12">Instituto tecnico guaimaral
-                            <br/>2013</p>
 
-                        <h4 className="header col s12">Modelado, materiales y texturas;
-                            <br/>Esenarios y animacion 2
-                            <br/>Creacion de juegos en blender</h4>
-                        <p className="grey-text text-darken-3 lighten-3 col s12">Comfanorte
-                            <br/>2015</p>
+                            <h4 className="header col s12">Marketing mix</h4>
+                            <p className="grey-text text-darken-3 lighten-3 col s12">Servicio nacional de
+                                aprendizaje SENA
+                                <br/>2014</p>
 
-                        <h4 className="header right-align col s12">Curso de programacion basica</h4>
-                        <p className="grey-text text-darken-3 lighten-3 right-align col s12">Platzi - apps.co
-                            <br/>2019</p>
+                            <h4 className="header right-align col s12">Bachiller tecnico en gestion de redes y
+                                sistemas</h4>
+                            <p className="grey-text text-darken-3 lighten-3 right-align col s12">Instituto tecnico
+                                guaimaral
+                                <br/>2013</p>
 
-                        <h4 className="header col s12">Curso de fundamentos de ingenieria de software</h4>
-                        <p className="grey-text text-darken-3 lighten-3 col s12">Platzi - apps.co
-                            <br/>2019</p>
+                            <h4 className="header col s12">Modelado, materiales y texturas;
+                                <br/>Esenarios y animacion 2
+                                <br/>Creacion de juegos en blender</h4>
+                            <p className="grey-text text-darken-3 lighten-3 col s12">Comfanorte
+                                <br/>2015</p>
 
-                        <h4 className="header right-align col s12">Curso de profesional de Git y Github</h4>
-                        <p className="grey-text text-darken-3 lighten-3 right-align col s12">Platzi - apps.co
-                            <br/>2019</p>
+                            <h4 className="header right-align col s12">Curso de programacion basica</h4>
+                            <p className="grey-text text-darken-3 lighten-3 right-align col s12">Platzi - apps.co
+                                <br/>2019</p>
 
-                        <h4 className="header col s12">Curso de 0 a experto en React JS + Redux + ES6 </h4>
-                        <p className="grey-text text-darken-3 lighten-3 col s12"> Udemy
-                            <br/>en proceso
-                            <br/>2019</p>
-                        <div className="col s12">
-                            <div className="chip"><i className="fas fa-laptop-code"></i></div>
-                            <div className="chip"><i className="fab fa-dev"></i></div>
-                            <div className="chip"><i className="fas fa-code"></i></div>
-                            <div className="chip"><i className="fas fa-file-code"></i></div>
+                            <h4 className="header col s12">Curso de fundamentos de ingenieria de software</h4>
+                            <p className="grey-text text-darken-3 lighten-3 col s12">Platzi - apps.co
+                                <br/>2019</p>
+
+                            <h4 className="header right-align col s12">Curso de profesional de Git y Github</h4>
+                            <p className="grey-text text-darken-3 lighten-3 right-align col s12">Platzi - apps.co
+                                <br/>2019</p>
+
+                            <h4 className="header col s12">Curso de 0 a experto en React JS + Redux + ES6 </h4>
+                            <p className="grey-text text-darken-3 lighten-3 col s12"> Udemy
+                                <br/>en proceso
+                                <br/>2019</p>
+                            <div className="col s12">
+                                <div className="chip"><i className="fas fa-laptop-code"></i></div>
+                                <div className="chip"><i className="fab fa-dev"></i></div>
+                                <div className="chip"><i className="fas fa-code"></i></div>
+                                <div className="chip"><i className="fas fa-file-code"></i></div>
+                            </div>
+                        </div>
+
+
+
+                </div>
+
+                    <div className="section accent-3 amber">
+                        <div className="row">
+
+                            <h2 className="header">Participacion</h2>
+                            <div className="col s12 m4">
+                                <div className="card horizontal z-depth-4 ">
+                                    <div className="card-image">
+                                        <img src="https://lorempixel.com/100/190/nature/6"/>
+                                    </div>
+                                    <div className="card-stacked">
+                                        <div className="card-content">
+                                            <p>XI Semana de ciencia, tecnologia e innovacion. </p>
+                                        </div>
+                                        <div className="card-action">
+                                            <a href="#">This is a link</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div className="col s12 m4">
+                                <div className="card horizontal z-depth-4">
+                                    <div className="card-image">
+                                        <img src="https://lorempixel.com/100/190/nature/6"/>
+                                    </div>
+                                    <div className="card-stacked">
+                                        <div className="card-content">
+                                            <p>XIII Semana de la comunicacion</p>
+                                        </div>
+                                        <div className="card-action">
+                                            <a href="#">This is a link</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div className="col s12 m4">
+                                <div className="card horizontal z-depth-4">
+                                    <div className="card-image">
+                                        <img src="https://lorempixel.com/100/190/nature/6"/>
+                                    </div>
+                                    <div className="card-stacked">
+                                        <div className="card-content">
+                                            <p>3ra Y 4PT National transport hackaton colombia</p>
+                                        </div>
+                                        <div className="card-action">
+                                            <a href="#">This is a link</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
                         </div>
                     </div>
+                </div>
 
-                    <div className="section amber accent-3">
-                        <div className="row container">
-                            <h2 className="header">Parallax</h2>
-                            <p className="grey-text text-darken-3 lighten-3">Parallax is an effect where the background
-                                content or image in this case, is moved at a different speed than the foreground content
-                                while scrolling.</p>
-                        </div>
-                    </div>
+                <div className="parallax-container">
+                    <div className="bg"></div>
+                    <div className="bg bg2"></div>
+                    <div className="bg bg3"></div>
                 </div>
             </div>
         )

@@ -1,5 +1,5 @@
 .profile{
-   padding: 10px;
+   padding: 1px;
 
 }
 
@@ -9,10 +9,18 @@ html, body{
     height:100vh;
     margin :0px;
 }
-.siseñor{
 
-}
 .icon-size{
 
     font-size: 100px;
 }
+.parallax-container{
+    height: 50%;
+
+}
+
+h3.font-vive{
+    font-family: 'Vibes', cursive;
+
+}
+

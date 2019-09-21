@@ -12,7 +12,7 @@ class Body extends Component {
                     <div className="divider"></div>
 
                     <div className="container center col s12">
-                        <div className="col s12"><br/><br/></div>
+                        <div className="col s12"><br/></div>
 
                         <div className="row">
 

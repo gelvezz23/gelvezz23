@@ -1,16 +1,17 @@
 import React, {Component} from 'react';
 
 import './style.css';
+import Profile from "../../assets/img/profile.jpg";
 
 class Sobremi extends Component {
 
-  render(){
-    return (
-      <div className="Sobremi">
-        <h1>Hola sobre mi</h1>
-      </div>
-    )
-  }
+    render() {
+        return (
+            <div className="Sobremi">
+
+            </div>
+        )
+    }
 }
 
 
