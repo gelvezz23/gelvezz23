@@ -10,15 +10,16 @@ class Quiensoy extends Component {
             <div className="col s12">
                 <div className="row">
                     <div className="siseñor col s12 m6 l6  grey darken-4">
-                        <div className="card grey darken-4">
+                        <div className="card grey darken-4 center">
                             <div className="waves-effect waves-block waves-light">
                                 <img src={Profile} alt="" className=" circle profile responsive-img"/>
                             </div>
                             <div className="card-content">
                                 <span className="card-title activator grey-text text-white">Carlos Mario Gomez Gelvez
-                                   <i className="material-icons right">info</i>
+                                   <i className="material-icons right">menu</i>
 
                                 </span>
+
 
                             </div>
                             <div className="card-reveal">
@@ -32,10 +33,9 @@ class Quiensoy extends Component {
                                 <p></p>
                             </div>
                         </div>
-
-
                     </div>
-                    <div className="col s12 m6 l6">
+
+                    <div className="col s12 m6 l6 amber">
                         <h3 className="valign-wrapper animated fadeIn delay-1s">
                             <i className="fas fa-calendar-alt"></i>
                             22 de Febrero 1997
@@ -111,12 +111,8 @@ class Quiensoy extends Component {
                         <p className="grey-text text-darken-3 lighten-3 right-align col s12">Platzi - apps.co
                             <br/>2019</p>
 
-                        <h4 className="header col s12">Curso de fundamentos de ingenieria de software</h4>
-                        <p className="grey-text text-darken-3 lighten-3 col s12">Platzi - apps.co
-                            <br/>2019</p>
-
-                        <h4 className="header right-align col s12">Curso de 0 a experto en React JS + Redux + ES6 </h4>
-                        <p className="grey-text text-darken-3 lighten-3 right-align col s12"> Udemy
+                        <h4 className="header col s12">Curso de 0 a experto en React JS + Redux + ES6 </h4>
+                        <p className="grey-text text-darken-3 lighten-3 col s12"> Udemy
                             <br/>en proceso
                             <br/>2019</p>
                         <div className="col s12">
@@ -127,9 +123,15 @@ class Quiensoy extends Component {
                         </div>
                     </div>
 
+                    <div className="section amber accent-3">
+                        <div className="row container">
+                            <h2 className="header">Parallax</h2>
+                            <p className="grey-text text-darken-3 lighten-3">Parallax is an effect where the background
+                                content or image in this case, is moved at a different speed than the foreground content
+                                while scrolling.</p>
+                        </div>
+                    </div>
                 </div>
-
-
             </div>
         )
     }
