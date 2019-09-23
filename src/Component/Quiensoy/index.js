@@ -12,6 +12,7 @@ class Quiensoy extends Component {
                     <div className="bg"></div>
                     <div className="bg bg2"></div>
                     <div className="bg bg3"></div>
+
                     <div className="col s12 m6 l6  grey darken-4">
                         <div className="card grey darken-4 center">
                             <div className="waves-effect waves-block waves-light">
@@ -37,27 +38,28 @@ class Quiensoy extends Component {
                     </div>
 
                     <div className="col s12 m6 l6">
-                        <h3 className="valign-wrapper font-vive animated fadeIn delay-1s">
+                        <h3 className="col s12 valign-wrapper font-vive animated fadeIn delay-1s">
                             <i className="fas fa-calendar-alt"></i>
                             22 de Febrero 1997
                         </h3>
-                        <h3 className="valign-wrapper animated fadeIn delay-2s">
+                        <h3 className="col s12 valign-wrapper animated fadeIn delay-2s">
                             <i className="fas fa-map-marker-alt"></i>
                             Cucuta - Norte de santander
                         </h3>
-                        <h3 className="valign-wrapper animated fadeIn delay-3s">
+                        <h3 className="col s12 valign-wrapper animated fadeIn delay-3s">
                             <i className="fas fa-birthday-cake"></i>
                             22 años
                         </h3>
-                        <h3 className="valign-wrapper animated fadeIn delay-4s">
+                        <h3 className="col s12 valign-wrapper animated fadeIn delay-4s">
                             <i className="fas fa-mobile-alt"></i>
                             311 4831 157
                         </h3>
-                        <h3 className="valign-wrapper animated fadeIn delay-5s">
+                        <h3 className="col s6 valign-wrapper animated fadeIn delay-4s">
                             <i className="fas fa-at"></i>
-                            Mao_23_@hotmail.com
+                            Mao_23_@<br/>hotmail.com
                         </h3>
-                        <h3 className="animated fadeIn delay-6s"><h5>Mas sobre mi</h5>
+
+                        <h3 className="col s6 animated fadeIn delay-5s"><h5>Mas sobre mi</h5>
                             <i className="fas fa-arrow-down"></i>
                         </h3>
                     </div>
@@ -128,17 +130,17 @@ class Quiensoy extends Component {
                         </div>
 
 
-
+                    </div>
                 </div>
-
-                    <div className="section accent-3 amber">
-                        <div className="row">
-
-                            <h2 className="header">Participacion</h2>
+                    <div className="parallax-container  accent-3 transparent">
+                        <div className="row col s12 ">
+                            <blockquote>
+                                <h2 className="header">Participacion</h2>
+                            </blockquote>
                             <div className="col s12 m4">
                                 <div className="card horizontal z-depth-4 ">
-                                    <div className="card-image">
-                                        <img src="https://lorempixel.com/100/190/nature/6"/>
+                                    <div className="card-image col s1 red darken-4">
+
                                     </div>
                                     <div className="card-stacked">
                                         <div className="card-content">
@@ -153,8 +155,8 @@ class Quiensoy extends Component {
 
                             <div className="col s12 m4">
                                 <div className="card horizontal z-depth-4">
-                                    <div className="card-image">
-                                        <img src="https://lorempixel.com/100/190/nature/6"/>
+                                    <div className="card-image col s1 red darken-4">
+
                                     </div>
                                     <div className="card-stacked">
                                         <div className="card-content">
@@ -169,8 +171,8 @@ class Quiensoy extends Component {
 
                             <div className="col s12 m4">
                                 <div className="card horizontal z-depth-4">
-                                    <div className="card-image">
-                                        <img src="https://lorempixel.com/100/190/nature/6"/>
+                                    <div className="card-image col s1 red darken-4">
+
                                     </div>
                                     <div className="card-stacked">
                                         <div className="card-content">
@@ -183,16 +185,44 @@ class Quiensoy extends Component {
                                 </div>
                             </div>
 
+                            <div className="col s12 m4">
+                                <div className="card horizontal z-depth-4">
+                                    <div className="card-image col s1 red darken-4">
+
+                                    </div>
+                                    <div className="card-stacked">
+                                        <div className="card-content">
+                                            <p>Hacktober Fest 2018</p>
+                                        </div>
+                                        <div className="card-action">
+                                            <a href="#">This is a link</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div className="col s12 m4">
+                                <div className="card horizontal z-depth-4">
+                                    <div className="card-image col s1 red darken-4">
+
+                                    </div>
+                                    <div className="card-stacked">
+                                        <div className="card-content">
+                                            <p>Apss.co 8va Jornada</p>
+                                        </div>
+                                        <div className="card-action">
+                                            <a href="#">This is a link</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                 </div>
 
-                <div className="parallax-container">
-                    <div className="bg"></div>
-                    <div className="bg bg2"></div>
-                    <div className="bg bg3"></div>
-                </div>
-            </div>
+
+
         )
     }
 }

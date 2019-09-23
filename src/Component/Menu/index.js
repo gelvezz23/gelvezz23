@@ -12,6 +12,8 @@ import './style.css';
 class Menu extends Component {
 
     render() {
+
+
         return (
             <div>
                 <Router>
@@ -47,13 +49,44 @@ class Menu extends Component {
 
                         </nav>
                     </div>
-                    <ul className="sidenav" id="mobile-demo">
-                        <li><Link to="/home"> Inicio </Link></li>
-                        <li><Link to="/quiensoy"> Quien soy </Link></li>
-                        <li><Link to="/sobremi"> Sobre mi </Link></li>
-                        <li><Link to="/anexos"> Anexos </Link></li>
+
+
+
+                    <ul className="sidenav grey darken-4 col s12" id="mobile-demo">
+                        <li className="col s12 waves-effect waves-orange white-text">
+                            <Link className="font-style sidenav-close" to="/home">
+                                <h5 className="white-text">
+                                    <i className="material-icons left medium">home</i>
+                                    Inicio</h5>
+                            </Link>
+                        </li>
+
+                        <li className="col waves-effect waves-orange">
+                            <Link className="font-style sidenav-close" to="/quiensoy">
+                                <h5 className="white-text">
+                                    <i className="material-icons left medium">live_help</i>
+                                    ¿Quien soy?</h5>
+                            </Link>
+                        </li>
+                        <li className="col waves-effect waves-orange">
+                            <Link className="font-style sidenav-close" to="/sobremi">
+                                <h5 className="white-text">
+                                    <i className="material-icons left medium">favorite</i>
+                                    Sobre mi</h5>
+                            </Link>
+                        </li>
+                        <li className="col waves-effect waves-orange">
+                            <Link className="font-style sidenav-close" to="/anexos">
+                                <h5 className="white-text">
+                                    <i className="material-icons left medium">library_books</i>
+                                    Anexos</h5>
+                            </Link>
+                        </li>
                     </ul>
 
+
+
+                    <Route exact path="/" component={Home}/>
                     <Route exact path="/gelvezz23" component={Home}/>
                     <Route exact path="/home" component={Home}/>
                     <Route exact path="/quiensoy" component={Quiensoy}/>
