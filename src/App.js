@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="">
 
-        <Menu></Menu>
+        <Menu/>
 
     </div>
   );
