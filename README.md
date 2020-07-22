@@ -6,7 +6,7 @@
 </a>
 
 <br />
-<img align="right" alt="GIF" width="300px" src="https://raw.githubusercontent.com/gelvezz23/gelvezz23/master/src/assets/img/carlos.png" />
+<img align="right" alt="GIF" width="400px" src="https://raw.githubusercontent.com/gelvezz23/gelvezz23/master/src/assets/img/carlos.png" />
 
 ### Hola mi nombre es Carlos Gomez
 - Soy un apasionado por el desarrollo web
