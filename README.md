@@ -1,5 +1,5 @@
 ## Hola mundo! 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+<img src="https://raw.githubusercontent.com/gelvezz23/gelvezz23/master/src/assets/img/carlos.png" width="30px"></h2>
 
 <a href="https://www.linkedin.com/in/ajay-singh-khalsa/">
   <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
