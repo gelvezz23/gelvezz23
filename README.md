@@ -1,12 +1,12 @@
 ## Hola mundo! 
 </h2>
 
-<a href="https://www.linkedin.com/in/ajay-singh-khalsa/">
-  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/carlos-mario-g%C3%B3mez-gelvez-07888a116/">
+  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <br />
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/gelvezz23/gelvezz23/master/src/assets/img/carlos.png" />
+<img align="right" alt="GIF" width="300px" src="https://raw.githubusercontent.com/gelvezz23/gelvezz23/master/src/assets/img/carlos.png" />
 
 ### Hola mi nombre es Carlos Gomez
 - Soy un apasionado por el desarrollo web
