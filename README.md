@@ -1,12 +1,12 @@
 ## Hola mundo! 
-<img src="https://raw.githubusercontent.com/gelvezz23/gelvezz23/master/src/assets/img/carlos.png" width="30px"></h2>
+</h2>
 
 <a href="https://www.linkedin.com/in/ajay-singh-khalsa/">
   <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/gelvezz23/gelvezz23/master/src/assets/img/carlos.png" />
 
 ### Hola mi nombre es Carlos Gomez
 - Soy un apasionado por el desarrollo web
