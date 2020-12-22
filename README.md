@@ -14,7 +14,11 @@
 - Mi desempeño en Frontend developer.
  
  [Linkedin](https://www.linkedin.com/in/carlosmariogomezg/)
+ 
+ 
  Silux [Canal de youtube](https://www.youtube.com/channel/UC4sY2EC2d9rgAeGSw7iwjbg)
+ 
+ 
  
 ⭐️ From [gelvezz23](https://github.com/gelvezz23)
 
