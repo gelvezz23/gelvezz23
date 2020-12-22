@@ -12,7 +12,10 @@
 - Soy un apasionado por el desarrollo web
 - estudiante de Ingenieria de sistemas. 
 - Mi desempeño en Frontend developer.
-
+ 
+ [Linkedin](https://www.linkedin.com/in/carlosmariogomezg/)
+ Silux [Canal de youtube](https://www.youtube.com/channel/UC4sY2EC2d9rgAeGSw7iwjbg)
+ 
 ⭐️ From [gelvezz23](https://github.com/gelvezz23)
 
 ![gelvezz23](https://github-readme-stats.vercel.app/api?username=gelvezz23&show_icons=true&theme=radical)
