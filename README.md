@@ -27,3 +27,17 @@ Silux [Canal de youtube](https://www.youtube.com/channel/UC4sY2EC2d9rgAeGSw7iwjb
 ⭐️ From [gelvezz23](https://github.com/gelvezz23)
 
 ![gelvezz23](https://github-readme-stats.vercel.app/api?username=gelvezz23&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=gelvezz23&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gelvezz23&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 Trofeos GitHub
+
+![](https://github-profile-trophy.vercel.app/?username=gelvezz23&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Frases Random
+
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+
+## 💰 Puede ayudarme haciendo un donativo
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gelvezz23)
