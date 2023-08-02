@@ -1,5 +1,4 @@
-[![@gelvezz23's Holopin board](https://holopin.io/api/user/board?user=gelvezz23)](https://holopin.io/@gelvezz23)
-
+[![An image of @gelvezz23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gelvezz23)](https://holopin.io/@gelvezz23)
 ## Hola mundo!
 
 </h2>
