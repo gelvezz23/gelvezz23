@@ -1,5 +1,4 @@
 [![@gelvezz23's Holopin board](https://holopin.io/api/user/board?user=gelvezz23)](https://holopin.io/@gelvezz23)
-[![@gelvezz231's Holopin board](https://holopin.me/gelvezz231)](https://holopin.io/@gelvezz231)
 
 ## Hola mundo!
 
