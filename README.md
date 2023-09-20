@@ -38,4 +38,6 @@ Silux [Canal de youtube](https://www.youtube.com/channel/UC4sY2EC2d9rgAeGSw7iwjb
 
 ## 💰 Puede ayudarme haciendo un donativo
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]([https://paypal.me/gelvezz23](https://www.paypal.com/paypalme/carlosgomezgelvez?country.x=CO&locale.x=es_XC)https://www.paypal.com/paypalme/carlosgomezgelvez?country.x=CO&locale.x=es_XC)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/carlosgomezgelvez?country.x=CO&locale.x=es_XC)
+
+
