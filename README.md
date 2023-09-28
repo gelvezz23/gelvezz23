@@ -20,7 +20,7 @@
 
 [mi portafolio](https://gelvezz23.github.io/gelvezz23/)
 
-Silux [Canal de youtube](https://www.youtube.com/channel/UC4sY2EC2d9rgAeGSw7iwjbg)
+@gelvezz23 [Canal de youtube](https://www.youtube.com/channel/UC6EIwfiaZu7qifLoZl7kASQ)
 
 ⭐️ From [gelvezz23](https://github.com/gelvezz23)
 
