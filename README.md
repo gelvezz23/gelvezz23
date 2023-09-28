@@ -18,7 +18,7 @@
 
 [Linkedin](https://www.linkedin.com/in/carlosmariogomezg/)
 
-[mi portafolio](http://devman.me/gelvezz23/)
+[mi portafolio](https://gelvezz23.github.io/gelvezz23/)
 
 Silux [Canal de youtube](https://www.youtube.com/channel/UC4sY2EC2d9rgAeGSw7iwjbg)
 
