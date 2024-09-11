@@ -44,3 +44,11 @@ function enviarCorreo() {
     window.location.href = sLink;
   }
 }
+
+const cookieBanner = document.querySelector(".cookie-banner");
+const acceptButton = document.querySelector(".accept-cookies");
+
+acceptButton.addEventListener("click", () => {
+  cookieBanner.style.display = "none";
+  // Aquí puedes almacenar el consentimiento del usuario en una cookie
+});
