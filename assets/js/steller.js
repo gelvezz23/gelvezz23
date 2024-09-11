@@ -29,7 +29,8 @@ $(document).ready(function () {
   });
 });
 
-function enviarCorreo() {
+function enviarCorreo(event) {
+  event.preventDefault();
   const email = document.getElementById("email").value;
   const subject = document.getElementById("subject").value;
   const message = document.getElementById("message").value;

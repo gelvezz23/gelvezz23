@@ -725,7 +725,7 @@
                 <div class="form">
                     <h6 class="subtitle">disponible 24/7</h6>
                     <h6 class="section-title mb-4">Ven a saludar</h6>
-                    <form>
+                    <form onsubmit="enviarCorreo(event)">
                         <div class="form-group">
                             <input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Email" required>
                         </div>
@@ -735,7 +735,7 @@
                         <div class="form-group">
                             <textarea name="contact-message" id="message" cols="30" rows="5" class="form-control" placeholder="Mesaje"></textarea>
                         </div>
-                        <button type="submit" onclick="enviarCorreo('gg')" class="btn btn-primary btn-block rounded w-lg">Enviar mensaje</button>
+                        <button type="submit" onclick="enviarCorreo(event)" class="btn btn-primary btn-block rounded w-lg">Enviar mensaje</button>
                     </form>
                 </div>
                 <div class="contact-infos">
