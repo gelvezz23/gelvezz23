@@ -744,7 +744,11 @@
                         <i class="ti-email"></i>
                         <div class="">
                             <h5>Agendemos una reunión</h5>
-                            <a href="https://calendly.com/gelvezz23/30min">Agendar</a>
+                            <!-- Principio del widget de enlace de Calendly -->
+                            <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+                            <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+                            <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/gelvezz223/hablemos'});return false;">Programe una reunión conmigo</a>
+                            <!-- Final del widget de enlace de Calendly -->
                         </div>
                     </div>
                     <div class="item">
